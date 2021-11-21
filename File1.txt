@@ -4,3 +4,4 @@ new test from git
 commit test
 789.
 Add line
+new branch line
